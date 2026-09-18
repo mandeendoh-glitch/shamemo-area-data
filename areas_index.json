@@ -1,1 +1,10 @@
-{"areas":[]}
+{
+  "areas": [
+    {
+      "code": "28110",
+      "label": "兵庫県神戸市中央区",
+      "fileUrl": "https://raw.githubusercontent.com/mandeendoh-glitch/shamemo-area-data/main/areas/area_28110.json",
+      "updatedAt": "2026-09-18T11:47:03.004Z"
+    }
+  ]
+}
